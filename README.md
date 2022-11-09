@@ -8,4 +8,5 @@ GitHub Actions makes CI/CD simpler
       A-->C;
       B-->D;
       C-->D;
+      A-->D
 ```
